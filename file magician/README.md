@@ -1,4 +1,4 @@
-##	WriteupBin - by 0xbb
+##	file magician - by 0xbb
 
 Difficulty estimate: easy
 
